@@ -175,7 +175,7 @@ Brand new version 2! WOOHOO! :)
 ##### New Features:
 -
 
-##### Game:
+#### Game:
 ##### Known Bugs:
 -
 ##### Bug fixes:
@@ -247,7 +247,7 @@ This version has many bug fixes
   
 Do not use bow in mad hard or impossible as the wall bug is fixed
 
-##### Installation:
+#### Installation:
 ##### Known Bugs:
 -
 ##### Bug fixes:
@@ -279,7 +279,7 @@ Arrow is slightly faster
 #### Notes:
 Did you know that the original game files for v1.0.4 was lost so it was remade?
 
-##### Installation:
+#### Installation:
 Known Bugs:
 -
 ##### Bug fixes:
@@ -398,7 +398,7 @@ Ghast stops moving when your health is 9 or below
 #### Notes:
 First version. There might be bugs.
 
-### Installation:
+#### Installation:
 ##### Known Bugs:
 Uninstall is broken because of suppress uninstall
 ##### Bug fixes:
@@ -406,7 +406,7 @@ Uninstall is broken because of suppress uninstall
 ##### New Features:
 Install the game
 
-### Game:
+#### Game:
 ##### Known Bugs:
 Invincible in wall
   
