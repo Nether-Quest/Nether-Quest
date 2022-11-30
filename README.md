@@ -148,7 +148,7 @@ Brand new version 2! WOOHOO! :)
 -
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 -
 
 #### Game:
@@ -158,7 +158,7 @@ Brand new version 2! WOOHOO! :)
 ##### Bug fixes:
 -
   
-##### New Featues:
+##### New Features:
 -
 
 
@@ -172,7 +172,7 @@ Brand new version 2! WOOHOO! :)
 -
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 -
 
 ##### Game:
@@ -180,7 +180,7 @@ Brand new version 2! WOOHOO! :)
 -
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 -
 
 
@@ -202,7 +202,7 @@ Linux and macOS has not been tested
 -
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 -
 
 #### Game:
@@ -215,7 +215,7 @@ The player faces the wrong way in mobile mode
 Fixed ghast stops moving when health is 9 or below
   
 You can no longer place blocks after game ends
-##### New Featues:
+##### New Features:
 Arrow is faster
   
 Press space to attack with sword
@@ -252,7 +252,7 @@ Do not use bow in mad hard or impossible as the wall bug is fixed
 -
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 Per user installation
   
 The game will install in AppData folder
@@ -270,7 +270,7 @@ You are no longer invincible in the wall (finally)
 You can no longer equip sword and bow after game ends
   
 If the arrow is flying when the game ends it will now disappear
-##### New Featues:
+##### New Features:
 Arrow is slightly faster
 
 
@@ -284,7 +284,7 @@ Known Bugs:
 -
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 Installation will now end without having to close the game (rebuilt only)
 
 #### Game:
@@ -302,7 +302,7 @@ Ghast stops moving when your health is 9 or below
 Big red circle is gone (hopefully)
   
 Fixed ghast dies when touched by bow
-##### New Featues:
+##### New Features:
 Ultra easy mode now requires you to get 10 obsidian instead of 5
   
 Build blocks to block the fireballs (buggy)
@@ -320,7 +320,7 @@ Arrow speed is slower
 -
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 You can no longer choose the installation folder
 
 #### Game:
@@ -337,7 +337,7 @@ Ghast stops moving when your health is 9 or below
   
 ##### Bug fixes:
 No cursor fixed
-##### New Featues:
+##### New Features:
 Sword has a 20% chance to kill the ghast instead of 100%
   
 Bow added to shoot ghast with 50% chance to kill the ghast
@@ -355,7 +355,7 @@ Press 1 to equip sword, 2 to equip bow
 -
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 Choose Installation Folder
 
 #### Game:
@@ -365,7 +365,7 @@ Cursor disappears in game
 Invincible in wall
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 Sword for attacking Ghast
 
 
@@ -378,8 +378,8 @@ Sword for attacking Ghast
 ##### Known Bugs:
 -
 ##### Bug fixes:
-No longer uses supress install
-##### New Featues:
+No longer uses suppress uninstall
+##### New Features:
 -
 
 #### Game:
@@ -389,7 +389,7 @@ Invincible in wall
 Ghast stops moving when your health is 9 or below
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 -
 
 
@@ -400,10 +400,10 @@ First version. There might be bugs.
 
 ### Installation:
 ##### Known Bugs:
-Uninstall is broken because of supress install
+Uninstall is broken because of suppress uninstall
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 Install the game
 
 ### Game:
@@ -413,7 +413,7 @@ Invincible in wall
 Ghast stops moving when your health is 9 or below
 ##### Bug fixes:
 -
-##### New Featues:
+##### New Features:
 Ghast will attack with fireballs
   
 Collect obsidian to win
