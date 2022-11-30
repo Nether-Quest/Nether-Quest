@@ -1,6 +1,6 @@
 # NETHER QUEST GAME DOCUMENTATION:
 
-# Please star the repository! Thank you!
+<b>Please star the repository! Thank you! ⭐🤩</b>
 
 ## How to install:
 Check HOW TO INSTALL.txt
