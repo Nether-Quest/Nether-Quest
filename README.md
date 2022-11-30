@@ -440,4 +440,4 @@ Collect obsidian to win
 ### Version v1.0.1
 -
 ### Version v1.0.0
--
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.0.exe">Windows EXE Installer<a/>
