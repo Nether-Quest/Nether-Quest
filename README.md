@@ -437,9 +437,9 @@ Collect obsidian to win
 
 <a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.6/Nether.Quest.v1.0.6.apk">Android APK Installer</a>
 
-<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.0.msi">Linux shell script</a>
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.6/Nether.Quest.v1.0.6.sh">Linux shell script</a>
 
-<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.0.msi">macOS zip file</a>
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.6/Nether.Quest.v1.0.6.zip">macOS zip file</a>
 ### Version v1.0.5
 <a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.5/Nether.Quest.v1.0.5.exe">Windows EXE Installer</a>
   
