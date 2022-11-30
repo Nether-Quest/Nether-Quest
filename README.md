@@ -438,10 +438,10 @@ Collect obsidian to win
 ### Version v1.0.2
 -
 ### Version v1.0.1
-<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.1.exe">Windows EXE Installer<a/>
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.1.exe">Windows EXE Installer</a>
   
-<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.1.msi">Windows MSI Installer<a/>
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.1.msi">Windows MSI Installer</a>
 ### Version v1.0.0
-<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.0.exe">Windows EXE Installer<a/>
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.0.exe">Windows EXE Installer</a>
   
-<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.0.msi">Windows MSI Installer<a/>
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.0.0/Nether.Quest.v1.0.0.msi">Windows MSI Installer</a>
