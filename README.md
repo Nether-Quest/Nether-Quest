@@ -280,7 +280,8 @@ Arrow is slightly faster
 Did you know that the original game files for v1.0.4 was lost so it was remade?
 
 #### Installation:
-Known Bugs:
+-
+##### Known Bugs:
 -
 ##### Bug fixes:
 -
