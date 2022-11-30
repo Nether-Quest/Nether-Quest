@@ -1,6 +1,6 @@
 # NETHER QUEST GAME DOCUMENTATION:
 
-<b>Please star the repository! Thank you! ⭐🤩</b>
+<b>Please star <a> href="https://github.com/Nether-Quest/Nether-Quest/"repository>the repository</a>! Thank you! ⭐🤩</b>
 
 ## How to install:
 Check HOW TO INSTALL.txt
