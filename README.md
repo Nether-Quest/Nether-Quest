@@ -1,5 +1,7 @@
 # NETHER QUEST GAME DOCUMENTATION:
 
+# Please star the repository! Thank you!
+
 ## How to install:
 Check HOW TO INSTALL.txt
 
@@ -52,7 +54,7 @@ Do not use broken versions (see below) if possible
 New features might be buggy
 
 
-## VERSIONS
+## VERSIONS:
 ### BROKEN VERSIONS:
 v1.0.0 (supress install is slightly broken)
 
