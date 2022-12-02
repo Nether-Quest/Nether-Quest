@@ -75,7 +75,7 @@ v1.0.1
 
 
 ### STABLE VERSIONS:
-v1.0.6
+v1.1.0
   
   
 ## SPECIAL VERSIONS:
@@ -164,7 +164,7 @@ Brand new version 2! WOOHOO! :)
 -
 
 
-### v1.0.7 (WIP):
+### v1.1.1 (WIP):
 
 #### Notes:
 -
@@ -186,7 +186,7 @@ Brand new version 2! WOOHOO! :)
 -
 
 
-### v1.0.6:
+### v1.1.0:
 
 #### Notes:
 Yay! The 2 bugs that have been around from the first version is now gone!
@@ -428,7 +428,7 @@ Collect obsidian to win
 -
 ### Version v2.0.0
 -
-### Version v1.0.7
+### Version v1.1.1
 -
 ### Version v1.1.0
 <a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.exe">Windows EXE Installer</a>
