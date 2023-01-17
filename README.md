@@ -435,11 +435,35 @@ Collect obsidian to win
 
 <a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.zip">macOS zip file</a>
 ### Version v2.0.1
--
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.exe">Windows EXE Installer</a>
+  
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.msi">Windows MSI Installer</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.apk">Android APK Installer</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.sh">Linux shell script</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.zip">macOS zip file</a>
 ### Version v2.0.0
--
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.exe">Windows EXE Installer</a>
+  
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.msi">Windows MSI Installer</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.apk">Android APK Installer</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.sh">Linux shell script</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.zip">macOS zip file</a>
 ### Version v1.1.1
--
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.exe">Windows EXE Installer</a>
+  
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.msi">Windows MSI Installer</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.apk">Android APK Installer</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.sh">Linux shell script</a>
+
+<a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.zip">macOS zip file</a>
 ### Version v1.1.0
 <a href="https://github.com/Nether-Quest/Nether-Quest/releases/download/v1.1.0/Nether.Quest.v1.1.0.exe">Windows EXE Installer</a>
   
