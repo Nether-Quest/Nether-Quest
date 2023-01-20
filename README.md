@@ -135,7 +135,7 @@ Fireballs: TBC
 Ride reindeer to go faster (TBC)
 
 #### Notes:
--
+<p>-</p>
 
 
 
@@ -147,43 +147,43 @@ Brand new version 2! WOOHOO! :)
 
 #### Installation:
 ##### Known Bugs:
--
+<p>-</p>
 ##### Bug fixes:
--
+<p>-</p>
 ##### New Features:
--
+<p>-</p>
 
 #### Game:
 ##### Known Bugs:
--
+<p>-</p>
   
 ##### Bug fixes:
--
+<p>-</p>
   
 ##### New Features:
--
+<p>-</p>
 
 
 ### v1.1.1 (WIP):
 
 #### Notes:
--
+<p>-</p>
 
 #### Installation:
 ##### Known Bugs:
--
+<p>-</p>
 ##### Bug fixes:
--
+<p>-</p>
 ##### New Features:
--
+<p>-</p>
 
 #### Game:
 ##### Known Bugs:
--
+<p>-</p>
 ##### Bug fixes:
--
+<p>-</p>
 ##### New Features:
--
+<p>-</p>
 
 
 ### v1.1.0:
@@ -201,11 +201,11 @@ Linux and macOS has not been tested
 
 #### Installation:
 ##### Known Bugs:
--
+<p>-</p>
 ##### Bug fixes:
--
+<p>-</p>
 ##### New Features:
--
+<p>-</p>
 
 #### Game:
 ##### Known Bugs:
@@ -251,9 +251,9 @@ Do not use bow in mad hard or impossible as the wall bug is fixed
 
 #### Installation:
 ##### Known Bugs:
--
+<p>-</p>
 ##### Bug fixes:
--
+<p>-</p>
 ##### New Features:
 Per user installation
   
@@ -282,11 +282,11 @@ Arrow is slightly faster
 Did you know that the original game files for v1.0.4 was lost so it was remade?
 
 #### Installation:
--
+<p>-</p>
 ##### Known Bugs:
--
+<p>-</p>
 ##### Bug fixes:
--
+<p>-</p>
 ##### New Features:
 Installation will now end without having to close the game (rebuilt only)
 
@@ -316,13 +316,13 @@ Arrow speed is slower
 ### v1.0.3:
 
 #### Notes:
--
+<p>-</p>
 
 #### Installation:
 ##### Known Bugs:
--
+<p>-</p>
 ##### Bug fixes:
--
+<p>-</p>
 ##### New Features:
 You can no longer choose the installation folder
 
@@ -351,13 +351,13 @@ Press 1 to equip sword, 2 to equip bow
 ### v1.0.2:
 
 #### Notes:
--
+<p>-</p>
 
 #### Installation:
 ##### Known Bugs:
--
+<p>-</p>
 ##### Bug fixes:
--
+<p>-</p>
 ##### New Features:
 Choose Installation Folder
 
@@ -367,7 +367,7 @@ Cursor disappears in game
   
 Invincible in wall
 ##### Bug fixes:
--
+<p>-</p>
 ##### New Features:
 Sword for attacking Ghast
 
@@ -375,7 +375,7 @@ Sword for attacking Ghast
 ### v1.0.1:
 
 #### Notes:
--
+<p>-</p>
 
 #### Installation:
 ##### Known Bugs:
@@ -383,7 +383,7 @@ Sword for attacking Ghast
 ##### Bug fixes:
 No longer uses suppress uninstall
 ##### New Features:
--
+<p>-</p>
 
 #### Game:
 ##### Known Bugs:
@@ -391,9 +391,9 @@ Invincible in wall
   
 Ghast stops moving when your health is 9 or below
 ##### Bug fixes:
--
+<p>-</p>
 ##### New Features:
--
+<p>-</p>
 
 
 ### v1.0.0:
@@ -405,7 +405,7 @@ First version. There might be bugs.
 ##### Known Bugs:
 Uninstall is broken because of suppress uninstall
 ##### Bug fixes:
--
+<p>-</p>
 ##### New Features:
 Install the game
 
