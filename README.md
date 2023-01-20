@@ -379,7 +379,7 @@ Sword for attacking Ghast
 
 #### Installation:
 ##### Known Bugs:
--
+<p>-</p>
 ##### Bug fixes:
 No longer uses suppress uninstall
 ##### New Features:
