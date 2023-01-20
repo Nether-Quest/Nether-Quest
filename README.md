@@ -415,7 +415,7 @@ Invincible in wall
   
 Ghast stops moving when your health is 9 or below
 ##### Bug fixes:
---
+<p>-</p>
 ##### New Features:
 Ghast will attack with fireballs
   
